@@ -111,8 +111,19 @@ http://localhost:5000
 * 🤖 Auto caption & hashtag suggestions
 * ☁️ Deploy on cloud (Render / Railway)
 
+---  
+
+  ## 🧪 How to Use
+
+1. Enter Instagram post details  
+2. Click "Predict Virality"  
+3. View result + confidence score
+
+---
+
 ## 🌐 Live Demo
 Coming Soon...
+
 ---
 
 ## 👨‍💻 Author
