@@ -2,6 +2,9 @@
 
 Predict whether your Instagram Reel or Post will go **Viral 🔥 or Not 📉** using Machine Learning.
 
+## 📸 App Preview
+
+![App Screenshot](screenshot.png)
 ---
 
 ## 📌 Features
